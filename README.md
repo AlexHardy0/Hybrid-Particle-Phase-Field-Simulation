@@ -23,17 +23,10 @@ To run the simulation, you will need the following dependencies:
   NumPy
   Matplotlib
 
-Usage
-
-
-
-Contributing
-
-If you wish to contribute to this project, please fork the repository and submit a pull request. Contributions are welcome in the form of bug fixes, new features, or improvements to the existing codebase.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-Contact
+
 
 For any questions or further information, please contact:
 
