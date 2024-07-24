@@ -25,8 +25,6 @@ To run the simulation, you will need the following dependencies:
 
 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 
 For any questions or further information, please contact:
 
